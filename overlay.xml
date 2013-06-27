@@ -1,0 +1,12 @@
+?xml version="1.0" ?>                                                                                                     
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>red-overlay</name>
+		<description>Custom stuff for TheRedMood</description>
+        <homepage>https://github.com/TheRedMood/red-overlay</homepage>
+		<owner>
+			<email>teodor_spaeren@lavabit.com</email>
+		</owner>
+		<source type="git">git://github.com/TheRedMood/red-overlay.git</source>
+	</repo>
+</repositories>
